@@ -1,22 +1,38 @@
-
-
-
-
-
-#tt{
-    float:inherit;
-    font-family: 'Times New Roman', Times, serif;
-}
+header{     padding:10px;
+            text-align: center;
+            color: #fff;
+            background-color: #333;
+            font-size: 18px;
+            
+        }
 body{
 
-    background-color: rgba(128, 128, 128, 0.219)
-}
-p{
+        background-color:#efeee7;
 
-        margin: auto;
-        font-family: Arial, Helvetica, sans-serif;
-        }
-        ul{
-        float: right;
-        margin-top: -200px;
-        }
+}
+h2{
+            font-weight: bolder;
+}
+div p{ 
+    height: 20px;
+    width: 30%;
+    margin-right: 720px;
+    float:right;
+    font-style: normal;
+    font-size: 17px;
+}
+#tt {
+    
+    margin-top: -200px;
+    float: right;
+    padding-right: 180px;
+}
+ul{
+    float: right;
+    margin-top: -150px;
+    padding-right: 29px ;
+}
+a{
+
+    color: rgba(255, 0, 0, 0.808);
+}
